@@ -1,4 +1,3 @@
-<img alt="هم‌کد #C" src="/media/CACHE/images/public/event/banner/hamcode-01_mobile/ff93346fda0170181384f0231bd15cc2.jpg" decoding="async" data-nimg="fill" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%">
 
 <img data-v-6a934248="" src="https://sokanacademy.s3.ir-thr-at1.arvanstorage.ir/21446/conversions/Landing5-large.webp" alt="بنر پایین" class="font-12 w-100">
 
