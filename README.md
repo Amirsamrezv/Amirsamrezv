@@ -1,3 +1,6 @@
+<img alt="نمایشگاه کار آنلاین کوئرا" class="chakra-image css-kxluta" src="/media/CACHE/images/public/slider/images/08tvutf/89b3715244fae20732d46c20b1b6ace8.jpg" id="08tvutf">
+
+
 My name is Amir
 
 
