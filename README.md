@@ -45,5 +45,3 @@ I love rubik's cube or board games like chess, checkers and other games, by the 
   <img src="https://camo.githubusercontent.com/826fd3ae3f0eeb4749f6ccfe158e2af63a4039b57f2fce6abf61c38ad1c0aecd/68747470733a2f2f686f6c6f70696e2e6d652f73616e73656b6169" alt="@sansekai's Holopin board" data-canonical-src="https://holopin.me/sansekai" style="max-width: 100%;">
   
   <img src="https://camo.githubusercontent.com/cea6ab3a53c0a3fe2ca96e1eaefbbc51ca07d4c9f6b39c3d64823739b1d4b71e/68747470733a2f2f6e6f7661746f72656d2d6368692d67696c742e76657263656c2e6170702f6170692f73706f74696679" alt="Spotify" data-canonical-src="https://novatorem-chi-gilt.vercel.app/api/spotify" style="max-width: 100%;">
-
-  <img data-v-92fd5742="" src="/_nuxt/img/header-default.de014be.gif" alt="talent-campaign-ads-banner" class="sa-contest-banner-image">
