@@ -1,5 +1,7 @@
 <img data-v-6a934248="" src="https://sokanacademy.s3.ir-thr-at1.arvanstorage.ir/21446/conversions/Landing5-large.webp" alt="بنر پایین" class="font-12 w-100">
 
+<img alt="هم‌کد" class="chakra-image css-kxluta" src="/media/CACHE/images/public/slider/images/9or0cex/7a208018e573eb738d25eafeb030d013.jpg" id="9or0cex">
+
 My name is Amir
 
 
