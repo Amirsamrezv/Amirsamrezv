@@ -1,5 +1,4 @@
-<img alt="نمایشگاه کار آنلاین کوئرا" class="chakra-image css-kxluta" src="/media/CACHE/images/public/slider/images/08tvutf/89b3715244fae20732d46c20b1b6ace8.jpg" id="08tvutf">
-
+<img data-v-6a934248="" src="https://sokanacademy.s3.ir-thr-at1.arvanstorage.ir/21446/conversions/Landing5-large.webp" alt="بنر پایین" class="font-12 w-100">
 
 My name is Amir
 
